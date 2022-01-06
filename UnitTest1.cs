@@ -20,9 +20,7 @@ namespace UnitTestProject_Jan2022
         [TestMethod]
         public void TestName()
         {
-
-            Console.WriteLine("Helo");
-            Console.WriteLine("How are You");
+            Console.Write("Pushing to Github");
 
            
 
