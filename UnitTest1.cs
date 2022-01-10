@@ -21,7 +21,7 @@ namespace UnitTestProject_Jan2022
         public void TestName()
         {
             Console.Write("Pushing to Github");
-            
+            Console.Write("Added something");
 
            
 
