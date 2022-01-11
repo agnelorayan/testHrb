@@ -22,6 +22,7 @@ namespace UnitTestProject_Jan2022
         {
             Console.Write("Pushing to Github");
             Console.Write("Remove something");
+            Console.Write("Adding something");
 
            
 
